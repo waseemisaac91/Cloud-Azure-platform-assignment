@@ -248,5 +248,5 @@ Cloud-Azure-platform-assignment/
 
 ---
 
-**Author:** Waseem Isaac &nbsp;|&nbsp; **Trainer:** [Yavuz Koksal](https://www.linkedin.com/in/yavuz-koksal) &nbsp;|&nbsp; `#Azure` `#CloudComputing` `#VirtualMachine`
+**Author:** Waseem Isaac & Dana Obid &nbsp;|&nbsp; **Trainer:** [Yavuz Koksal](https://www.linkedin.com/in/yavuz-koksal) &nbsp;|&nbsp; `#Azure` `#CloudComputing` `#VirtualMachine`
 
