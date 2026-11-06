@@ -1,5 +1,5 @@
 # Cloud-Azure-platform-assignment
-Set Up an Azure Virtual Machine with a Free Account By Wasewem ,Dana
+Set Up an Azure Virtual Machine with a Free Account By Waseem ,Dana
 
 # Azure Virtual Machine & Azure File Share
 
