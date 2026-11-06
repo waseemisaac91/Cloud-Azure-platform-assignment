@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **Student** | Waseem Isaac |
+| **Student** | Waseem Isaac | Dana Obid
 | **Trainer** | Yavuz Koksal ([LinkedIn](https://www.linkedin.com/in/yavuz-koksal)) |
 | **Platform** | Microsoft Azure (Free Trial subscription) |
 | **Region** | Sweden Central |
@@ -245,4 +245,4 @@ Cloud-Azure-platform-assignment/
 
 ---
 
-**Author:** Waseem Isaac &nbsp;|&nbsp; **Trainer:** [Yavuz Koksal](https://www.linkedin.com/in/yavuz-koksal) &nbsp;|&nbsp; `#Azure` `#CloudComputing` `#VirtualMachine`
+**Author:** Waseem Isaac b&Dana Obid  &nbsp;|&nbsp; **Trainer:** [Yavuz Koksal](https://www.linkedin.com/in/yavuz-koksal) &nbsp;|&nbsp; `#Azure` `#CloudComputing` `#VirtualMachine`
