@@ -13,7 +13,7 @@ Set Up an Azure Virtual Machine with a Free Account By Waseem ,Dana
 
 | | |
 |---|---|
-| **Students** | Waseem Isaac | Dana Obid
+| **Students** | Waseem Isaac , Dana Obid
 | **Trainer** | Yavuz Koksal ([LinkedIn](https://www.linkedin.com/in/yavuz-koksal)) |
 | **Platform** | Microsoft Azure (Free Trial subscription) |
 | **Region** | Sweden Central |
